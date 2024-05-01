@@ -1,0 +1,4 @@
+# CyberNova package dependencies
+dnspython
+python-whois
+python-nmap
